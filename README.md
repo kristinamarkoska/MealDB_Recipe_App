@@ -1,9 +1,9 @@
 # Recipe Explorer App
 
-## Getting Started
 The app allows users to browse meal categories, view meals by category, search for meals, and explore detailed recipe information.
 Features
 
+## Features
 Display all meal categories in a card layout
 
 Search categories
@@ -26,7 +26,7 @@ YouTube video link (if available)
 
 Random recipe of the day feature
 
-API Used
+## API Used
 
 Categories:
 https://www.themealdb.com/api/json/v1/1/categories.php
